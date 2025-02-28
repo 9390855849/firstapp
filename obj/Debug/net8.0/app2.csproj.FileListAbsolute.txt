@@ -31,3 +31,4 @@ C:\AZ-204\Module1\app2\obj\Debug\net8.0\refint\app2.dll
 C:\AZ-204\Module1\app2\obj\Debug\net8.0\app2.pdb
 C:\AZ-204\Module1\app2\obj\Debug\net8.0\app2.genruntimeconfig.cache
 C:\AZ-204\Module1\app2\obj\Debug\net8.0\ref\app2.dll
+C:\AZ-204\Module1\app2\obj\Debug\net8.0\app2.sourcelink.json
